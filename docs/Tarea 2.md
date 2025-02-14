@@ -165,3 +165,63 @@ Se utiliza el Visual Studio Code como editor para los archivos .txt .css .html y
    ![image-20250214215155532](./Tarea%202.assets/image-20250214215155532.png)
 
 8. Crea una rama ``feature-mapa`` y cámbiate a ella. Incluye este código en el archivo ``contacto.html`` . Añade los cambios. Realiza un ``commit``.
+
+![image-20250214222225959](./Tarea%202.assets/image-20250214222225959.png)
+
+9. Sube los cambios al remoto - los de todas las ramas. Muestra en el remoto los cambios del archivo ``contacto.html`` en la rama ``feature-mapa`` .
+
+   ![image-20250214222552618](./Tarea%202.assets/image-20250214222552618.png)
+
+   10. En GitHub, en la rama ``main`` , fusiona la rama ``feature-mapa`` . Baja los cambios del remoto a local. Deja los dos repositorios sincronizados. Muestra una captura de pantalla donde se vea la página principal de tu repositorio remoto
+
+![image-20250214223059011](./Tarea%202.assets/image-20250214223059011.png)
+
+
+
+![image-20250214223140147](./Tarea%202.assets/image-20250214223140147.png)
+
+
+
+![image-20250214223222672](./Tarea%202.assets/image-20250214223222672.png)
+
+------
+
+
+
+## Repositorio GitHub:
+
+[Repositorio LABDIST](https://github.com/Ortiz-Fernando/labdist)
+
+------
+
+
+
+## Conflictos
+
+1. Crea una rama ``hotfix-js`` . Cámbiate a ella. Añade este código en el fichero ``script.js`` .
+   Confirma el cambio y haz un ``commit`` con el mensaje "corregido problema en script.js".
+   (Fíjate en los números de línea de tu editor ...)
+
+   Líneas usadas: de la 26 a la 29.
+
+   ![image-20250214233103530](./Tarea%202.assets/image-20250214233103530.png)
+
+2. Vuelve a la rama ``main`` . En el fichero ``script.js`` en las mismas líneas que en la cuestión
+   anterior, añade el código siguiente. Confirma el cambio y haz un ``commit`` con el mensaje
+   "corregido problema en script.js rama main".
+
+   ![image-20250214233524615](./Tarea%202.assets/image-20250214233524615.png)
+
+3. Fusiona la rama ``hotfix-js`` en ``main`` . Debe producirse un conflicto. Resuélvelo como
+   consideres oportuno. Cuando termines la resolución del conflicto sube los cambios al
+   remoto.
+
+   ![image-20250214233850500](./Tarea%202.assets/image-20250214233850500.png)
+
+![image-20250214234017476](./Tarea%202.assets/image-20250214234017476.png)
+
+![image-20250214234251345](./Tarea%202.assets/image-20250214234251345.png)
+
+## Enlace videoclip
+
+[Video presentación LOO](https://github.com/Ortiz-Fernando/labdist)
