@@ -224,4 +224,4 @@ Se utiliza el Visual Studio Code como editor para los archivos .txt .css .html y
 
 ## Enlace videoclip
 
-[Video presentación LOO](https://github.com/Ortiz-Fernando/labdist)
+[Video presentación LOOM](https://www.loom.com/share/4d2249d6bc6a483ca5c12bd76917ba6d?sid=65a8104e-9f2f-48eb-b4c6-7f45a63ed500)
