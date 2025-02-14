@@ -20,7 +20,12 @@ document.addEventListener("DOMContentLoaded", function() {
 
         
         if (!valid) {
-            event.preventDefault();
+            event``.preventDefault();
         }
+      
+        if (mensaje.value.trim() === "") {
+            alert("Por favor, ingrese un mensaje.");
+            valid = false;
+            }
     });
 });
